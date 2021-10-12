@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d225fa8"],{e766:function(n,e,c){"use strict";c.r(e);var a=c("7a23"),i={class:"mine"};function t(n,e,c,t,r,s){return Object(a["q"])(),Object(a["f"])("div",i," mine ")}var r={name:"Mine"},s=c("6b0d"),d=c.n(s);const o=d()(r,[["render",t]]);e["default"]=o}}]);
